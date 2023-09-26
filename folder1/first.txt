@@ -6,3 +6,4 @@ Reject Credentials
 granted credentials
 Creating demo
 Testing
+testing error
